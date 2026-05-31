@@ -107,6 +107,7 @@ VITE_FIREBASE_APP_ID=your_app_id
 ---
 
 ## 💻 Running the Project
+## LIVE DEPLOYMENT LINK - https://pharm-track-web.netlify.app/
 
 ### Development Mode
 
