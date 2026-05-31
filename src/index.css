@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .hidden-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .hidden-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .nice-scrollbar::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  .nice-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .nice-scrollbar::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 10px;
+  }
+  .nice-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+  }
+}
