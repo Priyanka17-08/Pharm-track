@@ -37,7 +37,7 @@
 ## 📸 Screenshots
 
 | Dashboard Overview |
-| :---: | :---: | 
+| :---: | 
 | <img src="https://github.com/user-attachments/assets/dba04bc3-a969-4ac2-919a-597f0b87e329" width="100%" alt="image" /> 
 | **Inventory Management** | 
 | <img src="https://github.com/user-attachments/assets/adeb9d8c-2113-4ffc-b46a-8f0c4410a3ad" width="100%"/>
@@ -75,10 +75,10 @@ Clone the repository and install the dependencies:
 
 ```bash
 # Clone the repo
-git clone https://github.com/Priyanka17-08/PharmTrack.git
+git clone https://github.com/Priyanka17-08/Pharm-track.git
 
 # Navigate into the project directory
-cd PharmTrack
+cd Pharm-track
 
 # Install required dependencies
 npm install
