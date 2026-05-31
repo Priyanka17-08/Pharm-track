@@ -40,7 +40,7 @@
 
 | Dashboard Overview | Shop Settings | 
 | :---: | :---: | 
-| <img src="https://github.com/user-attachments/assets/dba04bc3-a969-4ac2-919a-597f0b87e329" width="1890" height="1040" alt="image" /> 
+| <img src="https://github.com/user-attachments/assets/dba04bc3-a969-4ac2-919a-597f0b87e329" width="180" height="1040" alt="image" /> 
 | <img src="https://via.placeholder.com/600x350.png?text=Settings+Screenshot" alt="Settings View" width="100%" /> |
 | **Inventory Management** | **Offline Sync Indicator** |
 | <img src="https://github.com/user-attachments/assets/adeb9d8c-2113-4ffc-b46a-8f0c4410a3ad" width="100%"/>
