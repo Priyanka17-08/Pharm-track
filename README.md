@@ -36,17 +36,11 @@
 
 ## 📸 Screenshots
 
-*(You can add your project screenshots here to make the README more attractive)*
-
-| Dashboard Overview | Shop Settings | 
+| Dashboard Overview |
 | :---: | :---: | 
 | <img src="https://github.com/user-attachments/assets/dba04bc3-a969-4ac2-919a-597f0b87e329" width="100%" alt="image" /> 
 | **Inventory Management** | 
 | <img src="https://github.com/user-attachments/assets/adeb9d8c-2113-4ffc-b46a-8f0c4410a3ad" width="100%"/>
- | <img src="https://via.placeholder.com/600x350.png?text=Offline+Sync+Screenshot" alt="Sync View" width="100%" /> |
-
-
-
 ---
 
 ## 🛠 Tech Stack
@@ -152,5 +146,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <div align="center">
-  <p>Built with ❤️ by your development team.</p>
+  <p>Built with ❤️ by Priyanka</p>
 </div>
